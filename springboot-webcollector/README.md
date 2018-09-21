@@ -1,4 +1,4 @@
-# mybatisplus-spring-boot  Demo
+# springboot-webcollector  Demo
 
 ![Mybatis-Plus-Logo](https://github.com/nico-tyan/springboot-webcollector/blob/master/springboot-webcollector/src/main/resources/banner.txt"logo")
 
